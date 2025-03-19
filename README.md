@@ -70,4 +70,3 @@ Mastering exception handling is crucial for developing robust and reliable softw
 ## Conclusion
 
 C++ Module 05 advances your knowledge of exception handling and object-oriented design. By completing this module, you will be equipped to write more resilient and modular C++ applications, capable of managing errors effectively and utilizing complex class structures.
-
